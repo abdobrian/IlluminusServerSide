@@ -1,0 +1,13 @@
+D:\Illuminus\Illuminus\Server-Side-3D\bin\Debug\netcoreapp2.1\Server-Side-3D.deps.json
+D:\Illuminus\Illuminus\Server-Side-3D\bin\Debug\netcoreapp2.1\Server-Side-3D.runtimeconfig.json
+D:\Illuminus\Illuminus\Server-Side-3D\bin\Debug\netcoreapp2.1\Server-Side-3D.runtimeconfig.dev.json
+D:\Illuminus\Illuminus\Server-Side-3D\bin\Debug\netcoreapp2.1\Server-Side-3D.dll
+D:\Illuminus\Illuminus\Server-Side-3D\bin\Debug\netcoreapp2.1\Server-Side-3D.pdb
+D:\Illuminus\Illuminus\Server-Side-3D\bin\Debug\netcoreapp2.1\UnityEngine.dll
+D:\Illuminus\Illuminus\Server-Side-3D\bin\Debug\netcoreapp2.1\UnityEngine.xml
+D:\Illuminus\Illuminus\Server-Side-3D\obj\Debug\netcoreapp2.1\Server-Side-3D.csproj.CoreCompileInputs.cache
+D:\Illuminus\Illuminus\Server-Side-3D\obj\Debug\netcoreapp2.1\Server-Side-3D.AssemblyInfoInputs.cache
+D:\Illuminus\Illuminus\Server-Side-3D\obj\Debug\netcoreapp2.1\Server-Side-3D.AssemblyInfo.cs
+D:\Illuminus\Illuminus\Server-Side-3D\obj\Debug\netcoreapp2.1\Server-Side-3D.csproj.CopyComplete
+D:\Illuminus\Illuminus\Server-Side-3D\obj\Debug\netcoreapp2.1\Server-Side-3D.dll
+D:\Illuminus\Illuminus\Server-Side-3D\obj\Debug\netcoreapp2.1\Server-Side-3D.pdb
